@@ -16,7 +16,7 @@
     "url": "git://github.com/craft-de-jet/kdm-component-react.git"
   },
   "dependencies": {
-    "chart.js": "^2.8.0",
+    "chart.js": "^2.9.4",
     "classnames": "^2.2.6",
     "d3-geo": "^1.11.6",
     "faker": "^4.1.0",
