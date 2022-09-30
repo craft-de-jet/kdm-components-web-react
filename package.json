@@ -31,7 +31,7 @@
     "react-notification-system": "^0.2.17",
     "react-simple-maps": "^0.12.1",
     "reactstrap": "^8.0.1",
-    "victory": "^32.3.6"
+    "victory": "^36.6.8"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
